@@ -29,8 +29,6 @@ Wish you a good-looking profile README!
 
 ## Hey, Kaiser here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-
 I'm **Kaiser**, a college student.
 
 -   :hammer_and_pick: NodeJS / Python / Java / C# / Lua
@@ -43,3 +41,7 @@ I'm **Kaiser**, a college student.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/103510031302938624
                             )](https://discord.com/users/103510031302938624)
+
+---
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=KaiserBloo&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
