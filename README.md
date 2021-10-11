@@ -44,5 +44,5 @@ I'm **Kaiser**, a college student.
 
 ---
 
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/KaiserBloo/GithubStats/blob/master/generated/overview.svg)
 
