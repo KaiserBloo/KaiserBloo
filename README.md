@@ -44,4 +44,5 @@ I'm **Kaiser**, a college student.
 
 ---
 
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=KaiserBloo&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+
