@@ -40,12 +40,8 @@ I'm **Kaiser**, a college student.
 ---
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/103510031302938624
-                            )](https://discord.com/users/103510031302938624)
+                            )](https://discord.com/users/103510031302938624) ![](https://github.com/KaiserBloo/GithubStats/blob/master/generated/overview.svg)
 
 ---
 
-![](https://github.com/KaiserBloo/GithubStats/blob/master/generated/overview.svg)
-
----
-
-![subtle flex](https://www.speedtest.net/result/12168791850.png)
+<img src="https://www.speedtest.net/result/12168791850.png" alt="subtle flex" width="400"/>
