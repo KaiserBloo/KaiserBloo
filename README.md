@@ -46,3 +46,6 @@ I'm **Kaiser**, a college student.
 
 ![](https://github.com/KaiserBloo/GithubStats/blob/master/generated/overview.svg)
 
+---
+
+![subtle flex](https://www.speedtest.net/result/12168791850.png)
