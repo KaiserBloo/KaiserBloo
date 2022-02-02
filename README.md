@@ -31,7 +31,7 @@ Wish you a good-looking profile README!
 
 I'm **Kaiser**, a college student.
 
--   :hammer_and_pick: NodeJS / Python / Java / C# / Lua
+-   :hammer_and_pick: NodeJS / Python / Go / Java / C# / Lua
 -   :pencil2: Arch Linux / KDE / Zsh / nano
 -   :seedling: Studying Computer Science
 -   :man: Pronouns: he/him
