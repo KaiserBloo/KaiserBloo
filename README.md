@@ -36,6 +36,7 @@ I'm **Kaiser**, a college student.
 -   :seedling: Studying Computer Science
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`1EF264A89E50E09A`](https://github.com/KaiserBloo.gpg)
+-   ![](https://komarev.com/ghpvc/?username=kaiserbloo&color=orange)
 
 ---
 
