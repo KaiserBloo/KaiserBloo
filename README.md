@@ -35,7 +35,7 @@ I'm **Kaiser**, a college student.
 -   :pencil2: Arch Linux / KDE / Zsh / nano
 -   :seedling: Studying Computer Science
 -   :man: Pronouns: he/him
--   :key: GPG key: [`1EF264A89E50E09A`](https://github.com/KaiserBloo.gpg)
+-   :key: GPG key: [`4D8772EFD73CE1ED`](https://github.com/KaiserBloo.gpg)
 -   ![](https://komarev.com/ghpvc/?username=kaiserbloo&color=orange)
 
 ---
