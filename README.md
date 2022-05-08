@@ -27,7 +27,7 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, Kaiser here! :wave:
+## Hey, Kaiser here! :wave: ![](https://komarev.com/ghpvc/?username=kaiserbloo&color=orange)
 
 I'm **Kaiser**, a college student.
 
@@ -37,7 +37,6 @@ I'm **Kaiser**, a college student.
 -   :seedling: Studying Computer Science, interested in Cybersecurity & Full-Stack Development.
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`4D8772EFD73CE1ED`](https://github.com/KaiserBloo.gpg)
--   ![](https://komarev.com/ghpvc/?username=kaiserbloo&color=orange)
 
 ---
 
