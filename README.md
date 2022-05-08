@@ -38,7 +38,7 @@ I'm **Kaiser**, a college student.
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`4D8772EFD73CE1ED`](https://github.com/KaiserBloo.gpg)
 
----
+##
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/103510031302938624
                             )](https://discord.com/users/103510031302938624) ![](https://github.com/KaiserBloo/GithubStats/blob/master/generated/overview.svg)
