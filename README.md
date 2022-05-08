@@ -31,9 +31,10 @@ Wish you a good-looking profile README!
 
 I'm **Kaiser**, a college student.
 
--   :hammer_and_pick: NodeJS / Python / Go / Java / C# / Lua
+-   :hammer_and_pick: NodeJS / TypeScript / Python / Go / Java / C# / Lua
+-   🚧 React / Next.js / Vercel
 -   :pencil2: Arch Linux / KDE / Zsh / nano
--   :seedling: Studying Computer Science
+-   :seedling: Studying Computer Science, interested in Cybersecurity & Full-Stack Development.
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`4D8772EFD73CE1ED`](https://github.com/KaiserBloo.gpg)
 -   ![](https://komarev.com/ghpvc/?username=kaiserbloo&color=orange)
@@ -42,7 +43,3 @@ I'm **Kaiser**, a college student.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/103510031302938624
                             )](https://discord.com/users/103510031302938624) ![](https://github.com/KaiserBloo/GithubStats/blob/master/generated/overview.svg)
-
----
-
-<img src="https://www.speedtest.net/result/12168791850.png" alt="subtle flex" width="400"/>
