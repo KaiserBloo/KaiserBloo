@@ -32,7 +32,7 @@ Wish you a good-looking profile README!
 I'm **Kaiser**, a college student.
 
 -   :hammer_and_pick: NodeJS / TypeScript / Python / Go / Java / C# / Lua
--   🚧 React / Next.js / Vercel
+-   🚧 React / Next.js / Vercel / Docker
 -   :pencil2: Arch Linux / KDE / Zsh / nano
 -   :seedling: Studying Computer Science, interested in Cybersecurity & Full-Stack Development.
 -   :man: Pronouns: he/him
