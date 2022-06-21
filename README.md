@@ -29,7 +29,7 @@ Wish you a good-looking profile README!
 
 ## Hey, Kaiser here! :wave: ![](https://komarev.com/ghpvc/?username=kaiserbloo&color=orange)
 
-I'm **Kaiser**, a college student.
+I'm **Kaiser**, a computing student.
 
 -   :hammer_and_pick: NodeJS / TypeScript / Python / Go / Java / C# / Lua
 -   🚧 React / Next.js / Vercel / Docker
