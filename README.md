@@ -33,7 +33,7 @@ I'm **Kaiser**, a computing student.
 
 -   :hammer_and_pick: NodeJS / TypeScript / Python / Go / Java / C# / Lua
 -   🚧 React / Next.js / Vercel / Docker
--   :pencil2: Arch Linux / KDE / Zsh / nano
+-   :pencil2: Arch Linux / Gnome / Zsh / nano
 -   :seedling: Studying Computer Science, interested in Cybersecurity & Full-Stack Development.
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`4D8772EFD73CE1ED`](https://github.com/KaiserBloo.gpg)
